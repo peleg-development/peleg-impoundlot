@@ -1,0 +1,12 @@
+/src/web/node_modules
+src/web/src/App.tsx
+/src/web/src
+src/web/index.html
+src/web/package-lock.json
+src/web/package.json
+src/web/postcss.config.js
+src/web/README.md
+src/web/tailwind.config.js
+src/web/tsconfig.json
+src/web/tsconfig.node.json
+src/web/vite.config.ts
