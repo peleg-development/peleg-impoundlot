@@ -24,7 +24,7 @@ RegisterNetEvent('peleg_impound:client:start_flatbed_impound', function(fee, rel
 
     local plate = GetVehicleNumberPlateText(veh)
     plate = normalize_plate(plate)
-    local model = GetDisplayNameFromVehicleModel(GetEntityModel(veh))
+    local model = string.lower(GetDisplayNameFromVehicleModel(GetEntityModel(veh)))
     local vehicleCoords = GetEntityCoords(veh)
 
     lib.notify({ description = 'Impounding vehicle' })
