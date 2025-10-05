@@ -7,7 +7,17 @@
 
 </div>
 
-A comprehensive **NPC Tow & Impound System** for FiveM servers featuring a modern React-based UI, multiple impound lots, vehicle management, and seamless integration with popular frameworks.
+## 🎥 Preview
+
+<div align="center">
+
+[![Peleg Impound Lot System Preview](https://img.youtube.com/vi/1yNGMYST_Oo/maxresdefault.jpg)](https://www.youtube.com/watch?v=1yNGMYST_Oo)
+
+**Click the image above to watch the full preview video**
+
+</div>
+
+A comprehensive **Impound System** for FiveM servers featuring a modern React-based UI, multiple impound lots, vehicle management, and seamless integration with popular frameworks.
 
 ## ✨ Features
 
